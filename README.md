@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there.... a sneek peek into my tech world 👋
 
 <!--
 **collabwithgrandmaster/collabwithgrandmaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
